@@ -1,8 +1,8 @@
 /*
-6. Napisati program koji pomoæu vezanih listi simulira rad:
+6. Napisati program koji pomoÃ¦u vezanih listi simulira rad:
 a) stoga,
 b) reda.
-Napomena: Funkcija "push" sprema cijeli broj, sluèajno generirani u opsegu od 10 -100
+Napomena: Funkcija "push" sprema cijeli broj, sluÃ¨ajno generirani u opsegu od 10 -100
 */
 
 #define _CRT_SECURE_NO_WARNINGS
