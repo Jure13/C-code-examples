@@ -8,7 +8,7 @@
 
 
 /*
-	Raèunanje postfixa stoga vezanom listom.
+	RaÃ¨unanje postfixa stoga vezanom listom.
 */
 
 
@@ -37,7 +37,7 @@ int main()
 	
 	rezultat = (head.next)->broj;
 	printf("\nKrajnji rezultat stoga: %d\n", rezultat);
-	free(head.next); //Samo je jedan èlan ostao, nema potrebe za (klasiènom) funkcijom "Dealokacija memorije"
+	free(head.next); //Samo je jedan Ã¨lan ostao, nema potrebe za (klasiÃ¨nom) funkcijom "Dealokacija memorije"
 
 	return 0;
 }
@@ -66,7 +66,7 @@ int CitajDatoteku(Position head) {
 			printf(" %s", buffer);
 
 			provjera = atoi(buffer); //pohrani samo brojeve u "provjera"
-			if (provjera == 0 && buffer[0] != '0') //ako su slova (operacije), raèunaj
+			if (provjera == 0 && buffer[0] != '0') //ako su slova (operacije), raÃ¨unaj
 			{
 
 
