@@ -201,7 +201,7 @@ int IzbrisiElement(Position head)
 	Position izbrisi = PronadiElement(head);
 	if (izbrisi == NULL)
 	{
-		printf("Nema se öto izbrisati!");
+		printf("Nema se ≈°to izbrisati!");
 		return 0;
 	}
 
@@ -311,7 +311,7 @@ void UpisiUDat(Position head)
 
 	if (fp == NULL)
 	{
-		printf("Greöka u otvaranju datoteke!\n");
+		printf("Gre≈°ka u otvaranju datoteke!\n");
 	}
 
 
